@@ -1,0 +1,30 @@
+{
+  "name": "node-backend-skeleton",
+  "version": "0.0.1",
+  "description": "system use nodejs-express framework as a backend and use mongodb-mongoose to store data",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "assert": "latest",
+    "crypto": "latest",
+    "dateformat": "latest",
+    "express": "3.4.3",
+    "extend": "latest",
+    "forever": "^0.15.1",
+    "https": "^1.0.0",
+    "jwt-simple": "~0.1.0",
+    "later": "latest",
+    "moment": "latest",
+    "mongoose": "^4.10.1",
+    "nodemon": "^1.8.1",
+    "passport": "latest",
+    "passport-local": "latest",
+    "passport-local-mongoose": "^4.0.0",
+    "underscore": "latest",
+    "view-helpers": "latest"
+  }
+}
